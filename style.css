@@ -1,0 +1,138 @@
+
+Style.css
+
+/* Reset default margins and paddings */
+body, h1, h2, h3, p, ul, li {
+    margin: 0;
+    padding: 0;
+  }
+ 
+  /* Set font and background colors */
+  body {
+    font-family: Arial, sans-serif;
+    background-color:rgb(217, 243, 228);
+    color: #121311;
+  }
+ 
+  /* Style header */
+  header {
+    background-color: black;
+    color:white;
+    padding: 20px;
+  }
+ 
+  /* Style navigation */
+  nav ul {
+    list-style-type:none;
+    background-color:darkgreen;
+  padding: 10px;
+  text-align: right;
+}
+
+
+nav ul li {
+  display:inline;
+}
+
+
+nav ul li a {
+  color:black;
+  text-decoration:aqua;
+  padding: 10px;
+}
+
+
+/* Style sections */
+section {
+  padding: 20px;
+  margin-bottom: 20px;
+  background-color: #0a0a0a;
+  color:white
+}
+
+
+section h2 {
+  margin-bottom: 10px;
+  color:darkgreen;
+  text-align: center;
+}
+
+
+/* Style projects */
+.project {
+  margin-bottom: 20px;
+  padding:10px
+}
+
+
+.project h3 {
+  margin-top:10px;
+  color:#24be83e5;
+  text-align:center;
+}
+.voting-description{
+  margin-top:10px;
+  margin-bottom: 20px;
+  font-size:13px;
+}
+
+
+.project h4 {
+  margin-top:10px;
+  margin-bottom: 5px;
+  color:aliceblue;
+  font-family: Arial, Helvetica, sans-serif;
+
+
+}
+
+
+/* Style footer */
+footer {
+  background-color: black;
+  color: darkgreen;
+  padding: 20px;
+  text-align: center;
+}
+.image{
+  height:200px;
+  width:150px;
+  border-radius: 400px;
+  text-align: center;
+  padding: 10px;
+}
+.image1{
+  text-align:center;
+  margin-top: 10px;
+
+
+
+
+}
+.Heading{
+  text-align: center ;
+  font-size:30px;
+  margin-top:20px;
+  font-weight:bold;
+  color:brown
+}
+.voting-image{
+  height:200px;
+  width:200px;
+  border-radius: 10px;
+  margin-top: 10px;
+}
+.voting-container{
+  text-align: center;
+  margin-bottom:20px;
+}
+.voting-module{
+  margin-top: 10px;
+  padding:5px
+}
+#about{
+  margin-top:10px;
+}
+.cafe-heading{
+  margin-bottom: 10px;
+}
