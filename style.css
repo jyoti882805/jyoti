@@ -10,7 +10,7 @@ body, h1, h2, h3, p, ul, li {
   /* Set font and background colors */
   body {
     font-family: Arial, sans-serif;
-    background-color:rgb(217, 243, 228);
+    background-color:purple;
     color: #121311;
   }
  
@@ -67,7 +67,7 @@ section h2 {
 
 .project h3 {
   margin-top:10px;
-  color:#24be83e5;
+  color:pink;
   text-align:center;
 }
 .voting-description{
