@@ -10,8 +10,8 @@ body, h1, h2, h3, p, ul, li {
   /* Set font and background colors */
   body {
     font-family: Arial, sans-serif;
-    background-color:purple;
-    color: #121311;
+    background-color:pink;
+    color: purple;
   }
  
   /* Style header */
